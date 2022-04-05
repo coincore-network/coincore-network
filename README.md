@@ -1,3 +1,5 @@
-- 👋 大家好，我们是 coincore 钱包团队
-- 我们打算将我们的钱包陆续开源，由社区一起来共同建设, 以 ccDao 的形式在社区发起
+### coincore wallet
+
+- 👋 Hi，We are coincore group
+- We plan to open source our self-developed wallet and maintain it by the community
 
