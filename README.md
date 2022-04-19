@@ -7,5 +7,6 @@
 - wallet 
 - staking
 - dex
+- defi
 - nft
 - gamefi
