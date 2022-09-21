@@ -1,2 +1,2 @@
-- 项目已经迁移到 coincore-io 私有项目，需要加入发邮件 coincore2022@163.com
+- 项目已经迁移到 https://github.com/savour-labs, 需要加入的可以移步过去查看详情
 
